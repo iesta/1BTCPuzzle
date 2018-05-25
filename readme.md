@@ -110,6 +110,7 @@ Merchants Given Backs Commerce Wei Dai Ruin Internet Old Sons Key Nodes John Law
 - https://www.jasondavies.com/wordcloud/
 - https://openbazaar.com/store/QmbmytVomWgsBW74QgyPdh17adoPBJeo2g7scihNPAjMmy/hidden-in-plain-sight
 - https://github.com/helderdb/seedchecker
+- https://github.com/HN-AG/puzzles
 
 
 ## 00212121 tx
