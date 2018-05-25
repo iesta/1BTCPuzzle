@@ -44,26 +44,29 @@ frequent credit hour minimum person interest casual physical group rather satisf
 
 ## Think in pairs
 
-???
+- ???
+- we must find pairs of words...
+- public/private key ?
 
 ## Code easily, attack early
 
 - might be first 4 valid BIP39 words
-- might be 4 valid BIP39 words
-- can be a clue to tell us : code is easy, start asap
-- is an example of 2 pairs
+- might be 4 valid BIP39 words i the seed
+- could be a clue to tell us : code is easy, start asap
+- is an example of "Think in pairs"
 
 ## Lost transaction costs *almost* users
 
 Followed a reference to the serie of numbers in Lost
-???
+
+- ???
 
 ## 00212121
 
-- is the amount in btc of a tx linked to the original address
+- is the amount in btc of a tx linked to the original address (2607c7ae1078643506a6580295849f6289f944e6f8156d1fbacdb4e162fca808)
 - could be a password
-- is probably the derivation path
-- means null!!! in hex
+- could be the derivation path : m/49'/0'/21'/21/21
+- means "null!!!" in hex (to be checked)
 
 ## Try +1
 
