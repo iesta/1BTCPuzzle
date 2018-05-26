@@ -89,12 +89,6 @@ Followed a reference to the serie of numbers in Lost
 - undo +1
 - probably same seed & derivation path but without password
 
-# BIP39 example
-
-````
-agree air almost cash code define early easily else end just law must now open order post problem proof risk run stay trust zero
-````
-
 # FONT
 
 Work Sans, a Grotesque sans https://github.com/weiweihuanghuang/Work-Sans
