@@ -37,7 +37,7 @@ p > q
 
 <=
 
-Dates
+# Dates
 1957
 1980
 1991
@@ -45,13 +45,14 @@ Dates
 1997
 2008
 
-Maybe Dates?
+# Long dates
+
 19981101
 198004
 199905
 200020801
 
-Numbers
+# Numbers
 
 0
 01
@@ -71,14 +72,14 @@ Numbers
 80
 257
 365
-8 again or infinity symbol?
+infinity symbol
 
-Numbers as words
+# Numbers as words
 
 Ones
 One
 
-Numbers and more
+# Numbers and more
 
 4th
 2GB
