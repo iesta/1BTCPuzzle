@@ -41,12 +41,15 @@ frequent credit hour minimum person interest casual physical group rather satisf
 - Outside / inside circle
 - BIP39 / not BIP39
 - only a certain font size
+- only a certain angle
 
 ## Think in pairs
 
 - ???
 - we must find pairs of words...
 - public/private key ?
+- use every words twice in a row: easily easily
+- use synomyms or antonyms (see the synonyms-pairs.txt )
 
 ## Code easily, attack early
 
@@ -57,7 +60,7 @@ frequent credit hour minimum person interest casual physical group rather satisf
 
 ## Lost transaction costs *almost* users
 
-Followed a reference to the serie of numbers in Lost
+In the reddit original post, the clue followed a reference to the serie of numbers in Lost by some redditor.
 
 - ???
 
@@ -112,10 +115,14 @@ Merchants Given Backs Commerce Wei Dai Ruin Internet Old Sons Key Nodes John Law
 https://blockchain.info/tx/2607c7ae1078643506a6580295849f6289f944e6f8156d1fbacdb4e162fca808
 
 
-# Unvalid BIP39 combinations from clues words (but working in iancoleman)
+# Some not valid BIP39 combinations from clues words (but working in iancoleman)
+
+12 words is the minimum (in BIP39)
 
 - code easily attack
 - easily attack early
 - code easily attack early almost open
 
-12 words is the minimum (in BIP39)
+Even "try try try" is valid according to iancoleman.
+
+
