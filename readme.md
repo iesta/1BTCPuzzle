@@ -112,10 +112,10 @@ Merchants Given Backs Commerce Wei Dai Ruin Internet Old Sons Key Nodes John Law
 https://blockchain.info/tx/2607c7ae1078643506a6580295849f6289f944e6f8156d1fbacdb4e162fca808
 
 
-# Valid BIP39 from clues
+# Unvalid BIP39 from clues (but working in iancoleman)
 
 - code easily attack
 - easily attack early
 - code easily attack early almost open
 
-There are millions of example... dead end
+12 words is the minimum (in BIP39)
